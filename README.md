@@ -130,3 +130,12 @@ Usually users are creating file README to give anither people an understanding a
 
 **_cd folder.name_** to change folder
 
+You can offer you changes to another user by doing next:
+
+1. fork repository in GH, in which you are interersted in
+2. clone it to your local repository
+3. create new branch
+4. add text to the new branch
+5. commit it
+6. push file to GH (becouse the is no new branch in GH yet)
+7. do pull request
